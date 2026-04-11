@@ -14,7 +14,7 @@ if uploaded_file is not None:
     if st.button("Generate Caption"):
         files = {"file": uploaded_file.getvalue()}
         response = requests.post(
-            "http://localhost:8000/caption/",
+            "http://localhost:11434/api/generate",
             files=files
         )
         caption = response.json().get("caption", "Error generating caption.")
