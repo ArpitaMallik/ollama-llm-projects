@@ -1,6 +1,6 @@
-# Image Caption Generator using Moondream:v2 (Ollama)
+# Image Caption Generator using Moondream:v2
 
-This project is an end-to-end application that generates captions for images using a FastAPI backend and a Streamlit frontend. It demonstrates how to integrate a web interface with a model-serving API for multimodal tasks.
+This project is a fully local end-to-end application that generates captions for images using a FastAPI backend, a Streamlit frontend and Ollama. It demonstrates how to integrate a web interface with a model-serving API for multimodal tasks.
 
 ## Features
 
