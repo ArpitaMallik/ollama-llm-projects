@@ -1,4 +1,4 @@
-## Ollama AI Lab
+## Ollama LLM Projects
 
 Collection of local LLM projects built using Ollama.
 
