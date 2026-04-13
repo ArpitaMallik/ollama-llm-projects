@@ -1,6 +1,6 @@
 # LLaMA Text Summarizer using Ollama
 
-A local text summarization application built using FastAPI, Streamlit, and Ollama (LLaMA models).
+A local text summarization application built using FastAPI, Streamlit, and Ollama (llama3.2:1b ).
 It supports summarizing long text inputs using a chunking-based approach for improved performance and accuracy.
 
 ---
